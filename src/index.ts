@@ -19,7 +19,6 @@ const prompt = promptSync()
  * @param {number} highIndex Highest possible index it can be
  * @returns {number} binarySearch
  */
-
 function binarySearch(
   userArray: number[],
   userNumber: number,
